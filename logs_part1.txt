@@ -1,0 +1,53 @@
+dba0215 (HEAD -> master, feature4, develop) HEAD@{0}: merge develop: Fast-forward
+5a389b8 HEAD@{1}: checkout: moving from develop to master
+dba0215 (HEAD -> master, feature4, develop) HEAD@{2}: merge feature4: Fast-forward
+e73a254 (feature3) HEAD@{3}: checkout: moving from feature3 to develop
+e73a254 (feature3) HEAD@{4}: checkout: moving from develop to feature3
+e73a254 (feature3) HEAD@{5}: checkout: moving from develop to develop
+e73a254 (feature3) HEAD@{6}: checkout: moving from feature3 to develop
+e73a254 (feature3) HEAD@{7}: rebase (finish): returning to refs/heads/feature3
+e73a254 (feature3) HEAD@{8}: rebase (start): checkout develop
+ac478a0 HEAD@{9}: commit: space
+104fa2a HEAD@{10}: checkout: moving from master to feature3
+5a389b8 HEAD@{11}: checkout: moving from feature3 to master
+104fa2a HEAD@{12}: checkout: moving from master to feature3
+5a389b8 HEAD@{13}: checkout: moving from feature4 to master
+dba0215 (HEAD -> master, feature4, develop) HEAD@{14}: checkout: moving from develop to feature4
+e73a254 (feature3) HEAD@{15}: checkout: moving from feature4 to develop
+dba0215 (HEAD -> master, feature4, develop) HEAD@{16}: commit: add blue style
+e73a254 (feature3) HEAD@{17}: checkout: moving from develop to feature4
+e73a254 (feature3) HEAD@{18}: checkout: moving from master to develop
+5a389b8 HEAD@{19}: checkout: moving from develop to master
+e73a254 (feature3) HEAD@{20}: merge feature4: Fast-forward
+8242fd4 HEAD@{21}: checkout: moving from feature4 to develop
+e73a254 (feature3) HEAD@{22}: rebase (finish): returning to refs/heads/feature4
+e73a254 (feature3) HEAD@{23}: rebase (pick): add other style
+8242fd4 HEAD@{24}: rebase (start): checkout develop
+55738e9 HEAD@{25}: checkout: moving from develop to feature4
+8242fd4 HEAD@{26}: commit: rebase ft3
+104fa2a HEAD@{27}: merge feature3: Fast-forward
+5a389b8 HEAD@{28}: checkout: moving from feature3 to develop
+104fa2a HEAD@{29}: checkout: moving from develop to feature3
+5a389b8 HEAD@{30}: checkout: moving from feature4 to develop
+55738e9 HEAD@{31}: commit: add other style
+104fa2a HEAD@{32}: checkout: moving from feature3 to feature4
+104fa2a HEAD@{33}: commit: add other img
+5a389b8 HEAD@{34}: checkout: moving from develop to feature3
+5a389b8 HEAD@{35}: checkout: moving from master to develop
+5a389b8 HEAD@{36}: merge develop: Fast-forward
+d828d28 HEAD@{37}: checkout: moving from develop to master
+5a389b8 HEAD@{38}: commit (merge): merge ft2
+d01618d HEAD@{39}: commit: merge ft1
+476acb4 (feature1) HEAD@{40}: merge feature1: Fast-forward
+d4dc1f3 HEAD@{41}: checkout: moving from feature2 to develop
+ef54a5a (feature2) HEAD@{42}: commit: add style to html
+d4dc1f3 HEAD@{43}: checkout: moving from develop to feature2
+d4dc1f3 HEAD@{44}: checkout: moving from feature1 to develop
+476acb4 (feature1) HEAD@{45}: commit: add img to html
+a347de7 HEAD@{46}: commit: add img
+d4dc1f3 HEAD@{47}: checkout: moving from develop to feature1
+d4dc1f3 HEAD@{48}: commit: add index
+d828d28 HEAD@{49}: checkout: moving from develop to develop
+d828d28 HEAD@{50}: checkout: moving from master to develop
+d828d28 HEAD@{51}: commit: gitignore
+9a15bf0 (origin/master) HEAD@{52}: commit (initial): first commit
